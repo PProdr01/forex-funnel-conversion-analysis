@@ -2,6 +2,8 @@
 
 This project simulates event-tracking data for a Forex trading app and analyzes the onboarding funnel using SQLite (SQL) and Python (pandas).
 
+For a deeper discussion of funnel bottlenecks, channel quality, and product recommendations, see [Analysis.md](Analysis.md).
+
 ## Funnel Stages
 visit -> sign_up -> kyc_start -> kyc_approved -> first_deposit -> first_trade -> retained_7d
 
